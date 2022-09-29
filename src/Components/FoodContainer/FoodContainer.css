@@ -1,0 +1,24 @@
+.food-outer{
+    display: grid;
+    grid-template-columns:4fr 1fr;
+}
+.food-info-wraper{
+    margin: 50px;
+}
+.logo-wraper{
+    display: flex;
+}
+.food-carts{
+    padding: 100px;
+    margin-top:50px;
+}
+.food-states{
+    background-color: white;
+    padding: 100px;
+}
+.food-grid{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap:20px;
+}
+
