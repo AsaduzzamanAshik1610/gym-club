@@ -1,10 +1,14 @@
 import './App.css';
-import FoodContainer from './Components/FoodContainer/FoodContainer';
+import Blog from './components/Blog/Blog';
+import Exercises from './components/Exercises/Exercises';
+import Header from './components/Header/Header';
 
 function App() {
   return (
-    <div className="App">
-    <FoodContainer></FoodContainer>
+    <div>
+      <Header></Header>
+      <Exercises></Exercises>
+      <Blog></Blog>
     </div>
   );
 }
