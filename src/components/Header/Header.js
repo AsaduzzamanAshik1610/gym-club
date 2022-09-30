@@ -9,7 +9,7 @@ const Header = () => {
 
                 </div>
                 <div>
-                    <h1>POWER-ACTION-CLUB</h1>
+                    <h1>POWER-CLUB</h1>
                 </div>
             </nav>
         </div>
