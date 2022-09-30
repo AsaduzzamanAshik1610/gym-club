@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import logo from '../../hamburger.png'
+import FoodCalculate from '../FoodCalculate/FoodCalculate';
 import FoodCard from '../FoodCard/FoodCard';
 import './FoodContainer.css'
 const FoodContainer = () => {
@@ -25,7 +26,7 @@ const FoodContainer = () => {
             </div>
            </div>
            <div className='food-states'>
-
+            <FoodCalculate></FoodCalculate>
            </div>
 
         </div>

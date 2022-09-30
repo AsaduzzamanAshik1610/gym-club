@@ -9,12 +9,10 @@
     display: flex;
 }
 .food-carts{
-    padding: 100px;
     margin-top:50px;
 }
 .food-states{
     background-color: white;
-    padding: 100px;
 }
 .food-grid{
     display: grid;

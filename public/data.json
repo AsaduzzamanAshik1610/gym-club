@@ -1,43 +1,43 @@
 [
     {"id": "52771",
-    "name": "Spicy Arrabiata Penne",
-    "strMealThumb": "https://www.themealdb.com/images/media/meals/ustsqw1468250014.jpg",
+    "name": "Fish",
+    "strMealThumb": "https://images.pexels.com/photos/262959/pexels-photo-262959.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
     "time": 10,
     "age":"20-25"
 
 },
     {"id": "52772",
-    "name": "Spicy Arrabiata Penne",
+    "name": "Spicy Arrabiata",
     "strMealThumb": "https://www.themealdb.com/images/media/meals/ustsqw1468250014.jpg",
-    "time": 10,
+    "time": 11,
     "age":"20-25"
 
 },
     {"id": "52773",
-    "name": "Spicy Arrabiata Penne",
-    "strMealThumb": "https://www.themealdb.com/images/media/meals/ustsqw1468250014.jpg",
-    "time": 10,
+    "name": "Burger",
+    "strMealThumb": "https://us.123rf.com/450wm/romulogq/romulogq2104/romulogq210400244/169341479-delicious-hamburger-with-french-fries-on-wooden-table-and-black-background-front-view-.jpg?ver=6",
+    "time": 12,
     "age":"20-25"
 
 },
     {"id": "52774",
-    "name": "Spicy Arrabiata Penne",
-    "strMealThumb": "https://www.themealdb.com/images/media/meals/ustsqw1468250014.jpg",
-    "time": 10,
+    "name": "Corn",
+    "strMealThumb": "https://res.cloudinary.com/dtpgi0zck/image/upload/s--wotTUc2c--/c_fit,h_580,w_860/v1/EducationHub/photos/maize.jpg",
+    "time": 1,
     "age":"20-25"
 
 },
     {"id": "52775",
-    "name": "Spicy Arrabiata Penne",
+    "name": "Spicy Arrabiata",
     "strMealThumb": "https://www.themealdb.com/images/media/meals/ustsqw1468250014.jpg",
-    "time": 10,
+    "time": 2,
     "age":"20-25"
 
 },
     {"id": "52776",
-    "name": "Spicy Arrabiata Penne",
-    "strMealThumb": "https://www.themealdb.com/images/media/meals/ustsqw1468250014.jpg",
-    "time": 10,
+    "name": "Pizza",
+    "strMealThumb": "https://images.unsplash.com/photo-1541745537411-b8046dc6d66c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTF8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80",
+    "time": 3,
     "age":"20-25"
 
 }
