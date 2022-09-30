@@ -16,3 +16,21 @@
     padding: 0 20px;
 
 }
+.btn-break{
+    padding: 10px;
+    margin-top: 10px;
+    background-color: gray;
+}
+.exercise{
+    background-color: gray;
+}
+.break{
+    background-color: gray;
+}
+.btn-activity{
+    background-color: slateblue;
+    border-radius: 10px;
+    border: none;
+    padding: 10px;
+   
+}

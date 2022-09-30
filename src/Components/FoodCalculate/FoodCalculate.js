@@ -21,6 +21,22 @@ const FoodCalculate = () => {
                  <p>age</p>
                 </div>
             </div>
+            <h2>Add A break</h2>
+            <div className='btn-break'>
+                <button>10s</button>
+                <button>20s</button>
+                <button>30s</button>
+                <button>40s</button>
+                <button>50s</button>
+                </div>
+                <h2>Exercise Details</h2>
+                <div className='exercise'>
+                  <h3>Exercise time</h3>
+                </div>
+                <div className='break'>
+                    <h2>Break time</h2>
+                </div>
+                <button className='btn-activity'>Activity completed</button>
         </div>
 
     );
