@@ -2,7 +2,7 @@ import React from 'react';
 import './Exercise.css'
 
 const Exercise = (props) => {
-    // console.log(props);
+    // distructure here
     const {handleAddToList, exercise} = props;
     const {img, name, timesRequired, desc, ratings} = exercise;
     return (

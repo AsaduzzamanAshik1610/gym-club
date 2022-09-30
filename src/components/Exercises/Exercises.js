@@ -6,14 +6,14 @@ import './Exercises.css'
 const Exercises = () => {
     const [exercises, setExercises] = useState([]);
     const [userCart, setUserCart] = useState([]);
+    // fetch data
     useEffect(() => {
         fetch('data.json')
         .then(res => res.json())
         .then(data => setExercises(data))
     }, []);
-
+//    onClick evenhandler
     const handleAddToList = (exercise) =>{
-        // console.log(exercise);
         const newCart = [...userCart, exercise];
         setUserCart(newCart);
     }
