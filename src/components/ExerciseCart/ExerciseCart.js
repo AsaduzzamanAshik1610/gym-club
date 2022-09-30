@@ -22,8 +22,8 @@ const ExerciseCart = (props) => {
     return (
         <div>
             <div className='profile'>
-                    <img src="https://media.creativemornings.com/uploads/user/avatar/120448/profile-circle.png" alt="" />
-                    <p>Md.Nuruzaman Milon</p>
+                    <img src="https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png" alt="" />
+                    <p>Asaduzzaman Ashik</p>
                 </div>
                 <div className='user-description'>
                     <div>

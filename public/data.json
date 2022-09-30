@@ -1,11 +1,11 @@
 [
   {
     "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
-    "name": "Flat Bench Press",
-    "timesRequired": 30,
-    "desc": "If you are only going to do one bench press exercise for your chest muscles, the flat barbell bench press is probably the better choice.",
-    "img": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8ZXhlcmNpc2V8ZW58MHx8MHx8&w=1000&q=80",
-    "ratings": 4
+    "name": " Mental Health Benefits",
+    "timesRequired": 10,
+    "desc": "You already know that exercise is good for your body. But did you know it can also boost your mood, improve your sleep, and help you deal with depression, anxiety, stress, and more.",
+    "img": "https://www.helpguide.org/wp-content/uploads/woman-exercising-on-yoga-mat.jpg",
+    "ratings": 5
   },
   {
     "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
@@ -13,23 +13,23 @@
     "timesRequired": 20,
     "desc": "Weight lifting with dumbbells lowers your risk of heart attack, stroke, and cardiovascular disease. Since strength training builds lean muscle mass.",
     "img": "https://imageio.forbes.com/specials-images/dam/imageserve/1130300334/960x0.jpg?height=474&width=711&fit=bounds",
-    "ratings": 5
+    "ratings": 6
   },
   {
     "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
     "name": "Cycle",
-    "timesRequired": 40,
+    "timesRequired": 30,
     "desc": "Regular physical activity can help protect you from serious diseases such as obesity, heart disease, cancer, mental illness, diabetes and arthritis.",
     "img": "https://www.eliteworldhotels.com.tr/blog-en/healthy-lifestyle/DocumentHandler.ashx?path=~/Resources/CKEditor/Blog/FtDescription/2018-02-16@12-06-10-321_shutterstock_537958414.jpg",
-    "ratings": 5
+    "ratings": 7
   },
   {
     "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
-    "name": "Tower Dip Station",
-    "timesRequired": 30,
-    "desc": "What is dip station good for? They can be great tools for building a strong and powerful upper body and developing the muscles of the chest and triceps.",
-    "img": "https://media.self.com/photos/5a592463d2071c0c445ebbe0/16:9/w_1280,h_720,c_limit/kids-at-the-gym-with-parents.jpg",
-    "ratings": 4
+    "name": "Self-motivation",
+    "timesRequired": 40,
+    "desc": "In this era of Digital most people are living sedentary life. So we need self-motivation to do some physical exercise to stay healthy and fresh.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzHYnv_q3sSJ53vsiu2zLdKBgIZ7LDdaA8aw&usqp=CAU",
+    "ratings": 8
   },
   {
     "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
@@ -37,7 +37,7 @@
     "timesRequired": 50,
     "desc": "Treadmills provide outstanding cardiovascular exercises, which can significantly enhance your heart health. Thanks to their ability to maintain constant heart rates.",
     "img": "https://www.shape.com/thmb/QT1Eq-X0lNvcFPBku1uOB11md3Q=/2000x1333/filters:fill(auto,1)/best-cardio-exercises-promo-2000-498cbfb8f07541b78572bf810e7fb600.jpg",
-    "ratings": 5
+    "ratings": 9
   },
   {
     "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
@@ -45,6 +45,6 @@
     "timesRequired": 60,
     "desc": "Also known as exercise balls, Swiss balls, Physio balls, and balance balls, the purpose of the stability ball is to improve balance, muscle tone and core strength.",
     "img": "https://www.articlebeep.com/wp-content/uploads/2022/09/couplerunningiStock599681790640x440.jpg",
-    "ratings": 3
+    "ratings": 10
   }
 ]

@@ -47,7 +47,7 @@
     padding: 10px 10px;
 }
 .break-time button{
-    background-color: rgb(149, 186, 186);
+    background-color:gainsboro;
     padding: 4px;
     border-radius: 50px;
     cursor: pointer;
@@ -63,7 +63,7 @@
 
 
 .activity-btn{
-    background-color: #8cc3e6;
+    background-color: yellowgreen;
     padding: 10px 10px;
     width: 100%;
     border: none;
