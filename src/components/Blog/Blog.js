@@ -3,13 +3,13 @@ import './Blog.css';
 const Blog = () => {
     return (
         <div className='blog-container'>
-            <h3 className='blog'>Blogs Here</h3>
+            <h3 className='blog'>Blogs</h3>
              <div>
                 <p><strong>1. How does react works?</strong></p>
                 <p>React is a declarative efficient and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called components. React has a few different kinds of components but we'll start with React.Component subclasses: class ShoppingList extends React.</p>
              </div>
 
-             {/* blog-2 */}
+           
              <div>
                 <p><strong>2. Props vs State ?</strong></p>
                 <p>
